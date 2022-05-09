@@ -16,7 +16,7 @@ const SacolaContext = {
 }
 
 export const Api = {
-  baseUrl: "http://localhost:3333",
+  baseUrl: "https://lopezpaleta-blue.onrender.com",
   ...PaletaContext,
   ...SacolaContext
 };
